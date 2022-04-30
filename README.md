@@ -19,19 +19,20 @@
 <h3>Interface admin</h3>
 <h6>Interface Home</h6>
 <p><b><i>Dans cette interface on affiche liste des patients avec les fonctionnalitées "modifier" et "supprimer"<p/><b/><i/>
-![image](https://user-images.githubusercontent.com/74328672/166101278-eccf3c94-1c65-4a4d-8740-0683d7a06203.png)
+  <img src ="https://user-images.githubusercontent.com/74328672/166101278-eccf3c94-1c65-4a4d-8740-0683d7a06203.png"/>
 <h6>Modifier un patient</h6>
-![image](https://user-images.githubusercontent.com/74328672/166101443-050634d1-d056-4dcc-a479-3e9dc0116dc1.png)
+  <img src ="https://user-images.githubusercontent.com/74328672/166101443-050634d1-d056-4dcc-a479-3e9dc0116dc1.png"/>
+  
   <h6>Ajouter un patient</h6>
-  ![image](https://user-images.githubusercontent.com/74328672/166101508-df092264-63d6-4b5f-90da-bb20ab877f67.png)
+  <img src ="https://user-images.githubusercontent.com/74328672/166101508-df092264-63d6-4b5f-90da-bb20ab877f67.png"/>
   <h6>Rechercher un patient</h6>
-  ![image](https://user-images.githubusercontent.com/74328672/166101565-f135adca-e6c4-4df2-bfe2-69375996ca2f.png)
+  <img src ="https://user-images.githubusercontent.com/74328672/166101565-f135adca-e6c4-4df2-bfe2-69375996ca2f.png"/>
   <h3>Interface User</h3>
   <p>Dans cette interface l'utilisateur peut juste voir les liste des patients avec ses scores et rechercher par son nom</p>
- ![image](https://user-images.githubusercontent.com/74328672/166101635-2f8c847a-3c92-4f97-b281-b930c6cc44ea.png)
+  <img src ="https://user-images.githubusercontent.com/74328672/166101635-2f8c847a-3c92-4f97-b281-b930c6cc44ea.png"/>
 <h6>Rechercher un patient</h6>
-  ![image](https://user-images.githubusercontent.com/74328672/166101678-ab45f415-1f7d-41ed-a9f0-315268d4d874.png)
-
+  <img src ="https://user-images.githubusercontent.com/74328672/166101678-ab45f415-1f7d-41ed-a9f0-315268d4d874.png"/>
+  
   
 
 
