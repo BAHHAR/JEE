@@ -12,7 +12,7 @@
 <br>
 
 <h3>Spring boot initialiser architecture</h3>
-<img src="https://user-images.githubusercontent.com/74328672/166103665-30edd773-c10d-41ce-bd46-1652fb7442f7.png"/>
+<img src="https://www.tutorialandexample.com/wp-content/uploads/2020/02/Spring-Boot-Architecture-2.png"/>
 
 <h3>Authentifiation</h3>
 
